@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Your Name 👋<br><br>Backend Developer | Python | Django | Automation & Distributed Systems<br><br><br><br>Backend Developer with **1.5+ years of hands-on experience** designing and building scalable backend systems and APIs using Python.<br><br>I specialize in **Django and FastAPI**, and enjoy working on **production-grade platforms** involving automation, real-time data processing, AI-powered applications, and cloud-native infrastructure.<br><br>Strong focus on **reliability, performance, and clean system design**.<br><br><br><br>---<br><br>
+## Hi, I'm Your Chirag S 👋<br><br>Backend Developer | Python | Django | Automation & Distributed Systems<br><br><br><br>Backend Developer with **1.5+ years of hands-on experience** designing and building scalable backend systems and APIs using Python.<br><br>I specialize in **Django and FastAPI**, and enjoy working on **production-grade platforms** involving automation, real-time data processing, AI-powered applications, and cloud-native infrastructure.<br><br>Strong focus on **reliability, performance, and clean system design**.<br><br><br><br>---<br><br>
 
 
 ## 🌐 Socials:
