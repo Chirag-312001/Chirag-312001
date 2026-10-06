@@ -1,73 +1,89 @@
-<h1 align="center">Hi, I'm Chirag 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Chirag%20S&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20AI%20Engineer&descSize=22&descAlignY=58" width="100%" alt="header"/>
 
-<p align="center">
-  <b>Backend & AI Engineer</b><br/>
-  Python · FastAPI · Django · RAG systems · Distributed systems & automation
-</p>
+<div align="center">
 
-<p align="center">
-  📍 Bengaluru, India
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+backend+systems+in+Python;Designing+RAG+and+AI-powered+applications;Automating+data+pipelines+at+scale;Engineering+distributed+systems+that+stay+up" alt="Typing animation"/></a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chirag-s-378351249/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:chirag312001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<br/>
+
+<img src="https://img.shields.io/badge/📍_Bengaluru,_India-0d1117?style=for-the-badge" alt="Location"/>
+<img src="https://img.shields.io/badge/~2_Years_Experience-0d1117?style=for-the-badge&logo=target&logoColor=00D4FF" alt="Experience"/>
+<img src="https://img.shields.io/badge/Open_to_Opportunities-2EA043?style=for-the-badge" alt="Open to work"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/chirag-s-378351249/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:chirag312001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
-I'm a backend and AI engineer with about two years of experience building production systems in Python: APIs, web scraping and automation pipelines, RAG-based AI applications, and distributed infrastructure.
+Backend and AI engineer at **BiggWorks** (Vithamas Technologies), building production systems in Python. I work across APIs, web scraping and automation pipelines, RAG-based AI applications and distributed infrastructure, with a strong focus on **reliability, performance and clean system design**.
 
-I care about reliability, performance and clean system design, and I like work where a design decision shows up directly in how a system behaves under load.
+---
 
-## 🔭 What I'm up to
+## ⚡ Key Highlights
 
-- 💼 Backend & AI Engineer at **BiggWorks** (Vithamas Technologies)
-- 🧠 Building a local **RAG system** in Python, with PostgreSQL 16 and Redis 7 running through Docker Compose
-- 🌐 Putting together a personal portfolio site
-- 📚 Always learning: deeper into AI systems, backend architecture and data pipelines
+<div align="center">
 
-## 🚀 Selected work
+| 🚀 | Highlight |
+|:---:|:---|
+| 🍓 | Built a **50-node distributed cluster** processing **millions of records** with high uptime and a significant cut in infrastructure cost |
+| 📡 | Engineered a **real-time IoT backend** serving **high daily API volume** at low latency |
+| 🧠 | Developing **RAG systems** with vector retrieval, containerised services and caching |
+| 🤖 | Designed **scraping and automation pipelines** with Selenium and Playwright for reliable large-scale data collection |
+| 🔐 | Shipped **secure REST APIs** with FastAPI and Django, including JWT auth and PostgreSQL-backed data layers |
 
-| Project | What it is | Stack |
-|---|---|---|
-| **Kalibre.ai** | Distributed data-processing system running across a 50-node Raspberry Pi cluster, handling millions of records with high uptime and a large cut in infrastructure cost | Python, distributed systems, automation |
-| **BlueTechFins** | Real-time IoT backend serving a high daily API volume at low latency | Python, FastAPI / Django, PostgreSQL |
-| **Enterprise AI RAG** *(in progress)* | Retrieval-augmented generation system built for a portfolio, with a containerised local setup | Python, PostgreSQL, Redis, Docker |
+</div>
 
-## 🛠️ Tech stack
+---
 
-**Languages & frameworks**
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+<div align="center">
 
-**Data & infrastructure**
+**Languages & Frameworks**<br/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,react,js,html,css&perline=7" alt="Languages and frameworks"/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+**Data & Infrastructure**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,docker,nginx,linux&perline=7" alt="Data and infrastructure"/>
 
-**Automation & tooling**
+**Automation & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=selenium,git,github,postman,vscode,raspberrypi&perline=6" alt="Tools"/>
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+</div>
+
+---
+
+## 🔭 Currently
+
+```text
+> building   : RAG systems with PostgreSQL, Redis and Docker
+> exploring  : AI agents, retrieval quality and backend architecture
+> sharpening : system design and distributed systems
+> open to    : backend / AI engineering roles
+```
+
+---
 
 ## 🎓 Education
 
-- **MCA**, PES College of Engineering
-- **BSc**
+**MCA**, PES College of Engineering &nbsp;·&nbsp; **BSc**
 
-## 📫 Let's connect
+---
 
-Open to conversations about backend engineering, AI systems and automation. The best ways to reach me are [LinkedIn](https://www.linkedin.com/in/chirag-s-378351249/) or [email](mailto:chirag312001@gmail.com).
+<div align="center">
+
+### 📫 Let's Connect
+
+I'm happy to talk about backend engineering, AI systems and automation.
+
+<a href="https://www.linkedin.com/in/chirag-s-378351249/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+<a href="mailto:chirag312001@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
