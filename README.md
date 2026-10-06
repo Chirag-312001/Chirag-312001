@@ -1,26 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="1000" height="120" role="img" aria-label="footer">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0f2027"/>
-      <stop offset="50%" stop-color="#203a43"/>
-      <stop offset="100%" stop-color="#2c5364"/>
-    </linearGradient>
-  </defs>
-  <rect width="1000" height="120" fill="url(#bg)"/>
-  <path fill="#00d4ff" fill-opacity="0.18" d="M0 40 Q125 10 250 40 T500 40 T750 40 T1000 40 T1250 40 T1500 40 T1750 40 T2000 40 V0 H0 Z">
-    <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="9s" repeatCount="indefinite"/>
-  </path>
-  <path fill="#7b61ff" fill-opacity="0.25" d="M0 25 Q125 -5 250 25 T500 25 T750 25 T1000 25 T1250 25 T1500 25 T1750 25 T2000 25 V0 H0 Z">
-    <animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="7s" repeatCount="indefinite"/>
-  </path>
-  <path fill="#0d1117" d="M0 12 Q125 -8 250 12 T500 12 T750 12 T1000 12 T1250 12 T1500 12 T1750 12 T2000 12 V0 H0 Z">
-    <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="5s" repeatCount="indefinite"/>
-  </path>
-</svg>
-
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+backend+systems+in+Python;Designing+RAG+and+AI-powered+applications;Automating+data+pipelines+at+scale;Engineering+distributed+systems+that+stay+up" alt="Typing animation"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=Hi%2C+I%27m+Chirag+S;Backend+%26+AI+Engineer" alt="Chirag S - Backend and AI Engineer"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+backend+systems+in+Python;Designing+RAG+and+AI-powered+applications;Automating+data+pipelines+at+scale;Engineering+distributed+systems+that+stay+up" alt="Typing animation"/>
 
 <br/>
 
@@ -102,6 +84,8 @@ I'm happy to talk about backend engineering, AI systems and automation.
 <a href="https://www.linkedin.com/in/chirag-s-378351249/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
 <a href="mailto:chirag312001@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
 
-</div>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1500&color=7B61FF&center=true&vCenter=true&width=500&height=30&lines=Thanks+for+stopping+by;Let%27s+build+something+great" alt="Thanks for visiting"/>
+
+</div>
