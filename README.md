@@ -1,17 +1,15 @@
-<h1 align="center">Chirag S</h1>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Backend+%26+AI+Engineer;I+build+RAG+and+LLM-powered+systems;I+automate+data+pipelines+at+scale;I+engineer+distributed+systems+that+stay+up" alt="Role"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=860&height=110&lines=Chirag+S;Backend+%26+AI+Engineer;Building+RAG+and+LLM+systems;Python+%7C+FastAPI+%7C+Django" alt="Chirag S - Backend and AI Engineer"/>
 
-<p>📍 Bengaluru, India</p>
+<p>Bengaluru, India</p>
 
-<a href="https://www.linkedin.com/in/chirag-s-378351249/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:chirag312001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/chirag-s-378351249/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:chirag312001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=900&color=3FB950&background=0D1117&multiline=true&repeat=true&vCenter=true&width=620&height=160&lines=%24+python+build_rag_pipeline.py;%3E+loading+documents+...;%3E+chunking+and+embedding+...;%3E+indexing+into+vector+store+...;%3E+retriever+ready;%3E+serving+answers+via+FastAPI" alt="RAG pipeline terminal"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=900&color=3FB950&background=0D1117&multiline=true&repeat=true&vCenter=true&width=640&height=190&lines=%24+python+build_rag_pipeline.py;%3E+loading+documents+...;%3E+chunking+and+embedding+...;%3E+indexing+into+vector+store+...;%3E+retriever+ready;%3E+LLM+connected;%3E+serving+answers+via+FastAPI" alt="RAG pipeline terminal"/>
 
 </div>
 
@@ -19,29 +17,68 @@
 
 ## About
 
-Backend and AI engineer with about two years of experience, currently at **BiggWorks** (Vithamas Technologies). I build production systems in Python: APIs, scraping and automation pipelines, RAG-based AI applications and distributed infrastructure. I care about reliability, performance and clean system design, and I like building AI features that run as dependable backend services rather than demos.
+Backend and AI engineer with about two years of experience, currently at **BiggWorks** (Vithamas Technologies). I build production systems in Python: APIs, scraping and automation pipelines, RAG-based AI applications and distributed infrastructure.
+
+I like turning AI from a demo into a dependable backend service: fast, observable, cached and easy to deploy.
 
 ---
 
 ## AI & LLM Engineering
 
-- **RAG pipelines:** document ingestion, chunking, embeddings, vector retrieval and grounded answers
-- **LLM-powered applications:** prompt design, LLM API integration and structured responses
-- **AI backends:** async FastAPI services, Redis caching, PostgreSQL storage and Docker-based deployment
-- **Data for AI:** scraping and automation pipelines that collect and clean data for retrieval systems
-- **Exploring:** AI agents and tool use, retrieval quality and evaluation
+<p>
+  <img src="https://img.shields.io/badge/RAG-Pipelines-58A6FF?style=flat-square" alt="RAG"/>
+  <img src="https://img.shields.io/badge/LLM-Applications-8957E5?style=flat-square" alt="LLM"/>
+  <img src="https://img.shields.io/badge/Vector-Search-3FB950?style=flat-square" alt="Vector search"/>
+  <img src="https://img.shields.io/badge/Embeddings-D29922?style=flat-square" alt="Embeddings"/>
+  <img src="https://img.shields.io/badge/Prompt-Engineering-DB61A2?style=flat-square" alt="Prompt engineering"/>
+  <img src="https://img.shields.io/badge/AI-Agents-F0883E?style=flat-square" alt="AI agents"/>
+</p>
 
-### How I approach a RAG system
+| Area | What I work on |
+|---|---|
+| **RAG systems** | Document ingestion, chunking strategies, embeddings, vector retrieval and grounded answers |
+| **LLM applications** | Prompt design, LLM API integration, structured outputs and response handling |
+| **AI backends** | Async FastAPI services, Redis caching, PostgreSQL storage, Docker deployment |
+| **Data for AI** | Scraping and automation pipelines that collect and clean data for retrieval systems |
+| **Exploring** | AI agents with tool use, retrieval quality and evaluation |
+
+### How I design a RAG system
 
 ```mermaid
 flowchart LR
     A[Data Sources] --> B[Ingestion and Chunking]
     B --> C[Embeddings]
-    C --> D[(Vector Store)]
+    C --> D[("Vector Store")]
     E[User Query] --> F[Retriever]
     D --> F
     F --> G[LLM]
     G --> H[FastAPI Answer Service]
+```
+
+### How I serve AI in production
+
+```mermaid
+flowchart LR
+    A[Client] --> B[Nginx]
+    B --> C[FastAPI Service]
+    C --> D{Redis Cache}
+    D -- hit --> C
+    D -- miss --> E[Retriever]
+    E --> F[("PostgreSQL and Vector Store")]
+    E --> G[LLM]
+    G --> C
+```
+
+### Agent loop I'm exploring
+
+```mermaid
+flowchart LR
+    A[Goal] --> B[Plan]
+    B --> C[Call Tool]
+    C --> D[Observe Result]
+    D --> E{Done?}
+    E -- no --> B
+    E -- yes --> F[Final Answer]
 ```
 
 ---
@@ -58,6 +95,18 @@ flowchart LR
 
 ## Tech Stack
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=900&color=58A6FF&background=0D1117&multiline=true&repeat=true&vCenter=true&width=640&height=130&lines=%24+docker+compose+up+-d;%3E+postgres+ready;%3E+redis+ready;%3E+fastapi+service+online" alt="Backend terminal"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,react,postgres,redis,mongodb,docker,nginx,linux,selenium,git&perline=12" alt="Tech stack icons"/>
+
+</div>
+
+<br/>
+
 | | |
 |---|---|
 | **Languages** | Python, JavaScript, SQL |
@@ -66,10 +115,6 @@ flowchart LR
 | **Infrastructure** | Docker, Nginx, Linux, Raspberry Pi clusters |
 | **Automation** | Selenium, Playwright |
 | **Tools** | Git, GitHub, Postman |
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,postgres,redis,docker,nginx,selenium,git&perline=10" alt="Tech stack icons"/>
-</p>
 
 ---
 
