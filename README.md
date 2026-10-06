@@ -1,4 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Chirag%20S&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20AI%20Engineer&descSize=22&descAlignY=58" width="100%" alt="header"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="1000" height="120" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="120" fill="url(#bg)"/>
+  <path fill="#00d4ff" fill-opacity="0.18" d="M0 40 Q125 10 250 40 T500 40 T750 40 T1000 40 T1250 40 T1500 40 T1750 40 T2000 40 V0 H0 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <path fill="#7b61ff" fill-opacity="0.25" d="M0 25 Q125 -5 250 25 T500 25 T750 25 T1000 25 T1250 25 T1500 25 T1750 25 T2000 25 V0 H0 Z">
+    <animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <path fill="#0d1117" d="M0 12 Q125 -8 250 12 T500 12 T750 12 T1000 12 T1250 12 T1500 12 T1750 12 T2000 12 V0 H0 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="5s" repeatCount="indefinite"/>
+  </path>
+</svg>
 
 <div align="center">
 
